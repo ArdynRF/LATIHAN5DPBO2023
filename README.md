@@ -15,12 +15,12 @@ Lengkapi kode dengan spesifikasi seperti di bawah:
 ## Dokumentasi
 **Add**
 
-![addData](https://user-images.githubusercontent.com/100756074/226801025-bd6a0cbb-0089-4eca-a642-c383c4caf717.png)
+![addData](https://github.com/ArdynRF/LATIHAN5DPBO2023/blob/main/screenshot/add.png)
 
 **Update**
 
-![Update](https://user-images.githubusercontent.com/100756074/226801053-b8fbf610-257e-495b-89a0-9517975f40f7.png)
+![Update](https://github.com/ArdynRF/LATIHAN5DPBO2023/blob/main/screenshot/update.png)
 
 **Delete**
 
-![Delete](https://user-images.githubusercontent.com/100756074/226801035-8679676a-29b2-42a4-862f-9b8ef4035c0f.png)
+![Delete](https://github.com/ArdynRF/LATIHAN5DPBO2023/blob/main/screenshot/delete.png)
